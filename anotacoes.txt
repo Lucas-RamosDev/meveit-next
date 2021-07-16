@@ -1,0 +1,7 @@
+-> Para fazer Deploy da aplicação assista:
+
+Aula 05 - 48:50 min
+
+Obs: Este site é mais específico para fazer deploy de aplicações frontend.
+
+-> https://moveitramos.vercel.app/
